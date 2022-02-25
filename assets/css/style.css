@@ -75,6 +75,16 @@ p {
   margin-left: 20px;
 }
 
+.content div {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
