@@ -2,9 +2,7 @@
 
 
 ## Description
-
-
-### Heading 3
+This is a project to go through the code on an existing website and restructure the code in order to improve the websites readibility, accessibility, and search engine optimization.
 
 
 #### Heading 4
