@@ -1,6 +1,6 @@
 
 # Horiseon Website Refactoring
-Restructuring an old website to create an easy to follow and logical structure.
+Restructuring a website to create an easy to follow and logical structure.
 
 
 ## Description
