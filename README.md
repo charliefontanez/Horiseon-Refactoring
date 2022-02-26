@@ -9,6 +9,9 @@ This is a project to go through the code on an existing website and restructure 
 In this situatuion, a marketing agency has tasked me with restructoring their codebase in order to follow accessibilty standards for the disabled and so their own site is optimized for search engines.
 
 
+(assets/images/charliefontanez.github.io_Horiseon-Refactoring_.png)
+
+
 ## Link to Live Page
 
 https://charliefontanez.github.io/Horiseon-Refactoring/
@@ -18,5 +21,3 @@ https://charliefontanez.github.io/Horiseon-Refactoring/
 
 - HTML
 - CSS
-
-## Links to work
